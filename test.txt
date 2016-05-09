@@ -1,0 +1,14 @@
+( (A_{123} \imply (B \imply C_{123})) \imply ((A \imply B) \imply (A \imply C)))
+( (A_{12 \imply (B \imply C_{3})) \imply ((A \imply B) \imply (A \imply C)))
+\and  (\and A)
+(( \not A_{2}) \imply B)
+(\not (A \and B))
+\and \and A
+( ( A_{1} \and A_{2}) \imply ( \not A_{2}))
+( (A \imply (B \imply C)) \imply ((A \imply B) \imply (A \imply C)))
+( ( A_{1} \and A_{2}) \imply (A_{1} \not A_{2}))
+((A_{1} \and A_{2}) \imply B)
+(A_{1} \and A_{2}) \imply B)
+((A_{1} \not A_{2}) \imply B)
+(( \not A_{2}) \imply B
+(ABCXCE_{1243})
